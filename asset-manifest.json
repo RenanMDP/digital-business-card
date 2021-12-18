@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/RenanMDP/static/css/main.3e05b41a.chunk.css",
+    "main.js": "/RenanMDP/static/js/main.3f2d7cc7.chunk.js",
+    "main.js.map": "/RenanMDP/static/js/main.3f2d7cc7.chunk.js.map",
+    "runtime-main.js": "/RenanMDP/static/js/runtime-main.56e8f8d1.js",
+    "runtime-main.js.map": "/RenanMDP/static/js/runtime-main.56e8f8d1.js.map",
+    "static/js/2.ba40e07b.chunk.js": "/RenanMDP/static/js/2.ba40e07b.chunk.js",
+    "static/js/2.ba40e07b.chunk.js.map": "/RenanMDP/static/js/2.ba40e07b.chunk.js.map",
+    "index.html": "/RenanMDP/index.html",
+    "static/css/main.3e05b41a.chunk.css.map": "/RenanMDP/static/css/main.3e05b41a.chunk.css.map",
+    "static/js/2.ba40e07b.chunk.js.LICENSE.txt": "/RenanMDP/static/js/2.ba40e07b.chunk.js.LICENSE.txt",
+    "static/media/pic.f719e6cf.jpg": "/RenanMDP/static/media/pic.f719e6cf.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.56e8f8d1.js",
+    "static/js/2.ba40e07b.chunk.js",
+    "static/css/main.3e05b41a.chunk.css",
+    "static/js/main.3f2d7cc7.chunk.js"
+  ]
+}
