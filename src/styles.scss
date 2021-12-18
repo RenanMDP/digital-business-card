@@ -1,0 +1,110 @@
+@import "~bootstrap/scss/bootstrap";
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap');
+
+* {
+  margin: 0;
+  box-sizing: border-box;
+
+  body {
+    background-color: #23252C;
+    font-family: 'Inter', sans-serif;
+  }
+
+ .card--main {
+  max-width: 317px;
+  margin: 0 auto;
+  border: none;
+
+    .card--img {
+      object-fit: cover;
+    }
+
+    .card--body {
+      background-color: #1A1B21;
+
+      .card--title {
+        color: white;
+        font-weight: bold;
+        font-size: 1.563rem;
+        line-height: 1.875rem;
+      }
+  
+      .card--subtitle1 {
+        color: #F3BF99;
+        font-size: 0.8rem;
+        line-height: 0.938rem;
+      }
+  
+      .card--subtitle2 {
+        color: #F5F5F5;
+        font-size: 0.64rem;
+        line-height: 150%;
+      }
+  
+      .card--subtitle1, .card--subtitle2 {
+        font-weight: normal;
+        margin-top: 0.5rem;
+      }
+  
+      .card--title, .card--subtitle1, .card--subtitle2 {
+        text-align: center;
+        font-style: normal;
+      }
+
+      .button--container {
+        margin-top: 1.0rem;
+        border: none;
+      }
+
+      .button--email, .button--linkedin {
+        // text-align: center;
+        margin: 0 auto;
+        width: 7.188rem;
+        font-style: normal;
+        font-weight: 500;
+        font-size: 0.875rem;
+        line-height: 1rem;
+      }
+
+      .text--title, .card--text {
+        font-style: normal;
+      }
+
+      .text--title {
+        color: white;
+        font-weight: bold;
+        font-size: 1rem;
+        line-height: 150%;
+      }
+
+      .card--text {
+        color: #DCDCDC;
+        font-weight: normal;
+        font-size: 0.64rem;
+        line-height: 150%;
+      }
+
+      .text--container {
+        margin-top: 1.5rem;
+      }
+
+      .text--row:nth-child(2) {
+        margin-top: 1rem;
+      }
+
+    } //.card--body
+
+    .card--footer {
+      background-color: #161619;
+      text-align: center;
+      border: none;
+
+      .icon {
+        color: #918E9B;
+        font-size: 1.5rem;
+      }
+
+    } //.card--footer
+
+  }
+}
